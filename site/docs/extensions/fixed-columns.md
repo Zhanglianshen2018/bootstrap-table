@@ -48,3 +48,7 @@ toc: true
   The number of the right fixed columns.
 
 - **Default:** `0`
+
+## Note
+
+* This extension does not support `detailView` option.
